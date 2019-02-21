@@ -18,6 +18,7 @@ module.exports = {
       '/hardware/',
       '/support/',
       '/cautions/',
+      '/dict/',
       '/behindthescene/'
 
     ]
