@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'MC Documentation',
+  title: 'MC Design Specification',
   description: 'A Collaborative Endeavour',
   base: '/docs/',
   head: [
